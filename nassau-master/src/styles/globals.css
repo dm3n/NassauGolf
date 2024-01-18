@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap");
+
+.listOriginalStyle ul,
+.listOriginalStyle ol {
+  list-style: initial;
+  margin: revert;
+  padding: revert;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  @apply max-w-8xl m-auto;
+}
+.hero-section {
+  height: calc(100vh - 112px);
+}
+.btn {
+  @apply rounded-none;
+}
+.container_title {
+  font-family: "Teko", sans-serif;
+  font-weight: 700;
+}
+.Swiper-Container .swiper-button-next,
+.Swiper-Container .swiper-button-prev {
+  position: absolute;
+  top: 32px;
+  z-index: 40;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+
+.Swiper-Container .swiper-button-prev {
+  right: 50px;
+  left: auto;
+}
+.Swiper-Container .swiper-button-next::after,
+.Swiper-Container .swiper-button-prev::after {
+  font-size: 16px;
+  z-index: 40;
+}
+.style-2::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: #e2e8f0;
+}
+
+.style-2::-webkit-scrollbar {
+  width: 8px;
+  background-color: #e2e8f0;
+}
+
+.style-2::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #000;
+}
+
+html::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #000;
+}
+html::-webkit-scrollbar {
+  width: 10px;
+  background-color: #fff;
+  cursor: all-scroll;
+}
+html::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.react-transform-wrapper {
+  width: 100% !important;
+  height: 100% !important;
+}
+.react-transform-component {
+  width: 100% !important;
+  height: 100% !important;
+}
