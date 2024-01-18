@@ -21,11 +21,15 @@ NassauGolf Store
 ---
 
 #### Screenshots
-Upload screenshots of your store and embed them here. You can use Markdown to embed images:
+
 
 ```markdown
-![Product Gallery](link-to-screenshot)
-![Checkout Page](link-to-another-screenshot)
+(https://github.com/dm3n/NassauGolf/assets/79768139/7dd369e2-ac36-47f0-b1f7-4d0fa56937de)
+(https://github.com/dm3n/NassauGolf/assets/79768139/32db3803-11f5-4b39-ae90-6617f5b001b6)
+(https://github.com/dm3n/NassauGolf/assets/79768139/dd167bb2-0156-4b7b-880c-1d0e8efbaad8)
+(https://github.com/dm3n/NassauGolf/assets/79768139/2152c24e-aac7-47e2-a94e-5c48a5871ded)
+
+
 ```
 
 ---
