@@ -5,7 +5,7 @@ NassauGolf Store
 
 #### Description
 
-> NassauGolf Store is a sophisticated e-commerce platform designed for golf but great for a eccomerce store template. Built using Next.js and Tailwind CSS, it offers a seamless shopping experience.
+> NassauGolf Store is a e-commerce platform designed for golf but can be used as an eccomerce store template. Built using Next.js and Tailwind CSS.
 
 ---
 
@@ -24,10 +24,10 @@ NassauGolf Store
 
 
 ```markdown
-(https://github.com/dm3n/NassauGolf/assets/79768139/7dd369e2-ac36-47f0-b1f7-4d0fa56937de)
-(https://github.com/dm3n/NassauGolf/assets/79768139/32db3803-11f5-4b39-ae90-6617f5b001b6)
-(https://github.com/dm3n/NassauGolf/assets/79768139/dd167bb2-0156-4b7b-880c-1d0e8efbaad8)
-(https://github.com/dm3n/NassauGolf/assets/79768139/2152c24e-aac7-47e2-a94e-5c48a5871ded)
+https://github.com/dm3n/NassauGolf/assets/79768139/7dd369e2-ac36-47f0-b1f7-4d0fa56937de
+https://github.com/dm3n/NassauGolf/assets/79768139/32db3803-11f5-4b39-ae90-6617f5b001b6
+https://github.com/dm3n/NassauGolf/assets/79768139/dd167bb2-0156-4b7b-880c-1d0e8efbaad8
+https://github.com/dm3n/NassauGolf/assets/79768139/2152c24e-aac7-47e2-a94e-5c48a5871ded
 
 
 ```
@@ -120,11 +120,5 @@ npm run dev
 - Firebase
 - React-Query
 - ESLint
-
----
-
-#### Contributing
-
-> We welcome contributions to the NassauGolf Store! If you have suggestions or want to add new features, please fork the repository, make your changes, and submit a pull request.
 
 ---
